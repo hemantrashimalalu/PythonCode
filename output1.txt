@@ -1,0 +1,10 @@
+
+ 
+BCCHY90101
+
+-------------------------- 
+  6    8  CEF720 8 port 10GE with DFC            WS-X6708-10GE      SAL1308K80B
+ 
+BCCHY90102
+-------------------------- 
+  6    8  CEF720 8 port 10GE with DFC            WS-X6708-10GE      SAL1305HRUB
